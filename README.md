@@ -20,8 +20,7 @@ When user click register button it navgate Register page
 with FirstName input ,LastName input, Username as Input and password as input.
 submit it should be navigate to login page again.
 
-![Screenshot (135)](https://github.com/fahmidakm99/IonicAcademicTraining/assets/93675075/b4a2fdcf-70b4-468f-89df-3ef0e14ada56)
-![Screenshot (136)](https://github.com/fahmidakm99/IonicAcademicTraining/assets/93675075/7fc0ab64-d798-400b-9973-55c3750d1946)
-![Screenshot (132)](https://github.com/fahmidakm99/IonicAcademicTraining/assets/93675075/8094a4c6-7df1-4427-b6c3-a34a654c970f)
-![Screenshot (133)](https://github.com/fahmidakm99/IonicAcademicTraining/assets/93675075/c977c709-9db7-4d6d-8821-8666d1fc0ac9)
-![Screenshot (134)](https://github.com/fahmidakm99/IonicAcademicTraining/assets/93675075/00069108-fd3e-4df0-b122-0fa5b26ad16d)
+![Screenshot (49)](https://github.com/fahmidakm99/IonicAcademicTraining/assets/93675075/572ee644-2934-469e-ad9f-92946c1b714b)
+![Screenshot (50)](https://github.com/fahmidakm99/IonicAcademicTraining/assets/93675075/7549c99e-223c-4722-97d9-c2b2f72be45f)
+![Screenshot (51)](https://github.com/fahmidakm99/IonicAcademicTraining/assets/93675075/1256e58c-9cf2-4da1-893c-cdc98bd70db8)
+![Screenshot (52)](https://github.com/fahmidakm99/IonicAcademicTraining/assets/93675075/6955924e-66e0-4cdd-b7d6-3cdfadc67c6a)
